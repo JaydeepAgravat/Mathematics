@@ -133,9 +133,7 @@ likely to occur.
 
 8. Total Probability:
 
-    $$
-    P(A) = \sum_{i} P(A|B_i) \cdot P(B_i)
-    $$
+    $$P(A) = \sum_{i} P(A|B_i) \cdot P(B_i)$$
 
 ## Random Variable
 
